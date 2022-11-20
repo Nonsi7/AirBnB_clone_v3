@@ -156,6 +156,6 @@ No known bugs at this time.
 ## Authors
 Bridget de Bock (debockannaline@gmail.com)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Bridget de Bock
 ## License
 Public Domain. No copy write protection. 
